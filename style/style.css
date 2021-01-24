@@ -1,0 +1,31 @@
+
+
+.afficheProduit{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#listeProduit{
+    border:solid;
+}
+
+.unProduit{
+    padding: 10px 10px; width: 30%;
+}
+
+.container{
+
+    border: solid;
+    padding: 40px 40px;
+}
+
+.containerAjSup{
+    margin-left: 30%;
+
+    padding: 50px 50px;
+}
+
+.ajouteProd{
+
+}
